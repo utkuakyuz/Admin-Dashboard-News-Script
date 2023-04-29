@@ -1,0 +1,184 @@
+{
+    "Users": [{
+            "id": 1,
+            "firstName": "Utku",
+            "lastName": "Akyüz",
+            "username": "akyuzutku",
+            "email": "utku.akyuz@ug.bilkent.edu.tr",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 2,
+            "firstName": "Utku",
+            "lastName": "Akyüz",
+            "username": "utkuakyuz",
+            "email": "utkuakyuz@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 3,
+            "firstName": "Özgür",
+            "lastName": "Demir",
+            "username": "ozgurdemir",
+            "email": "ozgurdemir@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 4,
+            "firstName": "Yusuf Berkay",
+            "lastName": "Girgin",
+            "username": "yusufberkaygirgin",
+            "email": "yusufberkaygirgin@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 5,
+            "firstName": "Tayyip Osman",
+            "lastName": "Aydıner",
+            "username": "tayyiposmanaydiner",
+            "email": "tayyiposmanaydiner@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 6,
+            "firstName": "John",
+            "lastName": "Doe",
+            "username": "johndoe",
+            "email": "johndoe@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 7,
+            "firstName": "Ahmet",
+            "lastName": "Kurt",
+            "username": "ahmetkurt",
+            "email": "ahmetkurt@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 8,
+            "firstName": "Mehmet",
+            "lastName": "Akçoban",
+            "username": "mehmetakcoban",
+            "email": "mehmetakcoban@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 9,
+            "firstName": "Furkan",
+            "lastName": "Haydari",
+            "username": "furkanhaydari",
+            "email": "furkanhaydari@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 10,
+            "firstName": "Şule",
+            "lastName": "Kurt",
+            "username": "sulekurt",
+            "email": "sulekurt@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 11,
+            "firstName": "Ali",
+            "lastName": "Koç",
+            "username": "alikoc",
+            "email": "alikoc@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 12,
+            "firstName": "Veli",
+            "lastName": "Sabancı",
+            "username": "velisabanci",
+            "email": "velisabanci@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 13,
+            "firstName": "Sakıp",
+            "lastName": "Sabancı",
+            "username": "sakipsabanci",
+            "email": "sakipsabanci@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 14,
+            "firstName": "Mehmet Ali",
+            "lastName": "Birand",
+            "username": "mehmetalibirand",
+            "email": "mehmetalibirand@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 15,
+            "firstName": "Nevşin",
+            "lastName": "Mengü",
+            "username": "nevsinmengu",
+            "email": "nevsinmengu@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 16,
+            "firstName": "Cüneyt",
+            "lastName": "Özdemir",
+            "username": "cuneytozdemir",
+            "email": "cuneytozdemir@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 17,
+            "firstName": "İbrahim",
+            "lastName": "Haskoloğlu",
+            "username": "ibrahimhaskologlu",
+            "email": "ibrahimhaskologlu@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 18,
+            "firstName": "Hatice",
+            "lastName": "Bayram",
+            "username": "haticebayram",
+            "email": "haticebayram@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 19,
+            "firstName": "Ayşe",
+            "lastName": "Aydın",
+            "username": "ayseaydin",
+            "email": "ayseaydin@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        },
+        {
+            "id": 20,
+            "firstName": "Fatma",
+            "lastName": "Fatsa",
+            "username": "fatmafatsa",
+            "email": "fatmafatsa@gmail.com",
+            "password": "Password.123",
+            "tags": ["son dakika", "dünya", "mutfak", "spor"]
+        }
+
+    ]
+}

@@ -1,0 +1,18 @@
+-header sağ üst kullanıcı sekmesi eklenebilir,
+-Admin Kullanıcı sayfası ve admin ekleme sayfası oluşturulacak,
+
+Yapılacaklar Listesi
+
+Basit
+Dashboard düzenlenecek, gerekli linkler doldurulacak, eksik kartlar tamamlanacak,
+admin kullanıcı sayfası oluşturulacak
+
+Sırada
+Yorumları onayla, sil butonu çalışır hale getirilecek,
+Kullanıcılar kısmına düzenle butonu eklenecek, PERMİSSİONLAR verilebilir olacak.
+Haberler kart kısmına kart link olarak eklenecek, haber içeriği görüntülenebilecek, (singlenews) EKLENDİ, GÖRSELLİK YOK
+Get Single User eklenecek, kullanıcı düzenlenebilir hale gelsin,
+Haber onaylama eklenecek,
+
+Ertelendi
+backend haber ekleme scripti test edilecek

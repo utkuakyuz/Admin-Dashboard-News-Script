@@ -1,0 +1,24 @@
+body{
+    background-color: whitesmoke;
+}
+section .container-fluid{
+    padding: 15px;
+}
+
+section .row{
+    background-color: white;
+    padding: 15px;
+    border-radius: 0.2%;
+}
+
+.sharebuttons a { color: #fff !important; }
+.btn-facebook { background: #3b5998;}
+.btn-twitter { background: #00acee;}
+.btn-google { background: #dd4b39;}
+.btn-pinterest { background: #c8232c;}
+.btn-linkedin { background: #0e76a8;}
+.btn-facebook:hover { background: #2f4679;}
+.btn-twitter:hover { background: #0089bd;}
+.btn-google:hover { background: #b03b2d;}
+.btn-pinterest:hover { background: #9f1b23;}
+.btn-linkedin:hover { background: #0b5e85;}
