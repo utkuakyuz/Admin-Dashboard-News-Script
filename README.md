@@ -19,7 +19,7 @@ This project is a fully functional admin dashboard for a news script, built usin
 ## Usage
 To use this project, you need to have Node.js and npm (or yarn) installed on your machine. Then follow these steps:
 
-1) Clone the repository to your local machine: git clone https://github.com/yourusername/news-dashboard.git
+1) Clone the repository to your local machine
 2) Install dependencies by running npm install or yarn install in the project root directory
 3) Start the development server by running npm run dev or yarn dev
 4) Open your browser and go to http://localhost:3000 to see the dashboard
@@ -31,7 +31,6 @@ The following packages were used in this project:
 * Vue Router: A routing library for Vue applications
 * Axios: A promise-based HTTP client for making API requests
 * Bootstrap 4: A popular UI framework for responsive web design
-* jQuery: A JavaScript library for manipulating the DOM and handling events
 * Popper.js: A JavaScript library for positioning tooltips and popovers
 * FontAwesome: A library of icons and symbols for web design
 * Vue Chart 3: A charting library for Vue applications
